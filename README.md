@@ -1,8 +1,8 @@
 Hi, I'm Jange Jason (吴疆) 👋
 ## About me：
 - Incoming MSc in AI at CUHK |  Undergraduate of Software Engineering at Jinan University.
-- Founder of 🍫**[Chocolog.cn](https://Chocolog.cn)** -- A website that collects chocolates from all over the world, where everyone can upload and discuss everything about chocolate.
-- Founder of 📷 **PickWords** -- A software dedicated to the IOS system, which can take pictures of the surrounding objects and translate them into the language one wants to learn through AI recognition.
+- Founder of 🍫 **[Chocolog.cn](https://Chocolog.cn)** -- A website that collects chocolates from all over the world, where everyone can upload and discuss everything about chocolate.
+- Founder of 📷 **[PickWords](https://github.com/JangeJason/PickWords)** -- A software dedicated to the IOS system, which can take pictures of the surrounding objects and translate them into the language one wants to learn through AI recognition.
 - Collaborator of 🏃‍♀️ **[Motivue](https://github.com/fatcatMaoFei/Motivue-Backend)** -- Our flagship software, a professional-level sports assistant, analyzes all your physical data to help you maintain good physical condition.
 - Collaborator of 🧭 **[Ration-Radar](https://github.com/fatcatMaoFei/Relation-Radar)** -- A magical software that helps you handle your interpersonal relationships.
 ## Aspiration
